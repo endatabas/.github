@@ -1,5 +1,7 @@
 # Endatabas
 
+:canned_food: :robot:
+
 Endatabas is a new kind of open source database.
 
 It is an immutable, serverless, dynamic, HTAP, columnar,
@@ -10,4 +12,6 @@ Despite all the buzzwords, it might still be the most boring
 
 `endb` will be open-sourced in Q3, 2023.
 
-:canned_food: :robot_face: :se: :ca: :in:
+Your friends, Håkan and Steven
+
+:sweden: :canada: :india:

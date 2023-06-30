@@ -7,6 +7,6 @@ For more information, please contact us at [hello@endatabas.com](mailto:hello@en
 ## Status
 
 Endatabas is **experimental software.** 
-Learn more by reading our [roadmap.md](https://github.com/endatabas/endb/blob/main/doc/roadmap.md).
+Learn more by reading our [roadmap](https://github.com/endatabas/endb/blob/main/ROADMAP.md).
 
 :sweden: :canada:
